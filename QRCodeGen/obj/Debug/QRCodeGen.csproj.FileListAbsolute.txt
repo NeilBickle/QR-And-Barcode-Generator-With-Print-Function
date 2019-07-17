@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\bin\Debug\QRCodeGen.exe.config
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\bin\Debug\QRCodeGen.exe
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\bin\Debug\QRCodeGen.pdb
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\obj\Debug\QRCodeGen.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\obj\Debug\QRCodeGen.MainFrm.resources
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\obj\Debug\QRCodeGen.Properties.Resources.resources
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\obj\Debug\QRCodeGen.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\obj\Debug\QRCodeGen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\obj\Debug\QRCodeGen.exe
+C:\Users\User\source\repos\QRCodeGen\QRCodeGen\obj\Debug\QRCodeGen.pdb
